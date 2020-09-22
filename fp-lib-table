@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Peavey5150)(type KiCad)(uri ${KIPRJMOD}/Peavey5150.pretty)(options "")(descr ""))
+)
